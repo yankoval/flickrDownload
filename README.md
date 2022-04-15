@@ -1,5 +1,7 @@
 # flickrDownload
 Download from Flickr all user images in all albums.
+python flickrDownload.py -k=11dab5613dbf3bf5b88ed965bb75e4c -s
+=a37717766375c11b -u=flickrUserName "-d=C:\Users\Pictures\photos"
 
 ## api key & secret
 You have to get flickr api key and secret to register in the app garden. Put it as script params.
