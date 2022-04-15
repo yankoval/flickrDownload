@@ -17,5 +17,6 @@ Script will create "photos" folder or will create a folder specified in --dir pa
 All images will be downloaded in corresponding albums folders.
 
 ## Script update folders
-if the album folder or image file already exists, do not overwrite it. 
+if the album folder or image file already exists, do not overwrite it. Just update.
 Algorithm goes through album & page list and downloads only absent images.
+So in case of a crash you can just rerun the script again.
