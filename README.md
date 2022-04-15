@@ -1,5 +1,6 @@
 # flickrDownload
 Download from Flickr all user images in all albums.
+
 python flickrDownload.py -k=11dab5613dbf3bf5b88ed965bb75e4c -s
 =a37717766375c11b -u=flickrUserName "-d=C:\Users\Pictures\photos"
 
